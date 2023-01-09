@@ -242,7 +242,7 @@ h2 {
         width: calc(100% - 20px);
     }
     ul.active {
-        margin-left: -237px
+        margin-left: -237px;
     }
     button {
         margin-top: 720px;
