@@ -238,9 +238,6 @@ h2 {
 }
 
 @media (max-width: 321px) {
-    body {
-        width: calc(100% - 20px);
-    }
     ul.active {
         margin-left: -237px;
     }
