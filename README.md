@@ -20,7 +20,7 @@ Projeto de um desafio da Rocketseat de desenvolver uma homepage para uma marca d
 
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
-1. Rode `git clone https://github.com/miishiyama/RocketBlog` para fazer um clone desse repositório.
+1. Rode `git clone https://github.com/miishiyama/RocketCoffee` para fazer um clone desse repositório.
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
