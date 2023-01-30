@@ -15,8 +15,11 @@
 ![preview](./preview/1440x747/RocketCoffee-1440x747.png)
 
 ## Projeto 💻
-Projeto de um desafio da Rocketseat de desenvolver uma homepage para uma marca de café. <br>
-(https://www.figma.com/file/lQ59IS6f8VI026SrABKXqv/RocketCoffee-(Copy)?t=3fuZPtrYmCUy3Oz4-6)
+Projeto de um desafio da Rocketseat de desenvolver uma homepage para uma marca de café.
+
+## Layout 🔖
+Segue abaixo o layout deste projeto:
+- [Figma](https://www.figma.com/file/lQ59IS6f8VI026SrABKXqv/RocketCoffee-(Copy)?t=3fuZPtrYmCUy3Oz4-6)
 
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
